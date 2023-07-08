@@ -1,0 +1,19 @@
+:host {
+    background-color: #f5f5f5;
+}
+
+.app-top-menu {
+    margin-left: 50px;
+    display: flex;
+    gap: 25px;
+
+    a {
+        font-size: 1.6rem;
+        text-transform: uppercase;
+    }
+}
+
+.app-toolbar {
+    background-color: #a829c2;
+    box-shadow: 0 2px 5px #0000004d;
+}

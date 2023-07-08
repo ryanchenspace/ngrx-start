@@ -1,0 +1,7 @@
+<div class="container">
+    <app-books-list [books]="books$ | async" (edit)="onEdit($event)" (delete)="onDelete($event)">
+    </app-books-list>
+
+    <app-book-detail [book]="currentBook$ | async" (save)="onSave($event)" (cancel)="onCancel()">
+    </app-book-detail>
+</div>

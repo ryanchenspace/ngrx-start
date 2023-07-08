@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1ae95bff-ed28-4cdf-a669-292006629466",
+      "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin ",
+      "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+      "imageLink": "https://m.media-amazon.com/images/I/41xShlnTZTL.jpg"
+    },
+    {
+      "id": "290ef8c1-4366-4992-b33a-bf8d2bfc6595",
+      "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "author": " Robert Martin ",
+      "description": "Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects.",
+      "imageLink": "https://m.media-amazon.com/images/I/41-sN-mzwKL.jpg"
+    },
+    {
+      "id": "6e70075a-632f-47fe-a3bc-0d3556b888da",
+      "name": "How Google Tests Software",
+      "author": "James Whittaker , Jason Arbon , Jeff Carollo ",
+      "description": "The book overviews the approach Google takes to testing software and gives a good overview of Google's testing techniques and tools summarizing them as  that small tests lead to code quality, and medium, large and enormous tests lead to product quality",
+      "imageLink": "https://m.media-amazon.com/images/I/61VkUzsKFcL._SY522_.jpg"
+    },
+    {
+      "id": "2b14015b-4167-4729-9f7d-937a9db4863a",
+      "name": "The Pragmatic Programmer",
+      "author": "David Thomas , Andrew Hunt , Anna Katarina ",
+      "description": "The Pragmatic Programmer is one of those rare tech audiobooks you’ll listen, re-listen, and listen to again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time. ",
+      "imageLink": "https://m.media-amazon.com/images/I/51A8l+FxFNL.jpg"
+    },
+    {
+      "id": "2dab2be9-6650-446d-abbf-bb94a50b7c24",
+      "name": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+      "author": "Simon Sinek , Penguin Audio",
+      "description": "Discover the book that is captivating millions on TikTok and that served as the basis for one of the most popular TED Talks of all time - with more than 56 million views and counting. Over a decade ago, Simon Sinek started a movement that inspired millions to demand purpose at work, to ask what was the why of their organization. Since then, millions have been touched by the power of his ideas, and these ideas remain as relevant and timely as ever.",
+      "imageLink": "https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg"
+    },
+    {
+      "id": "3fbcc480-b33d-474c-a4c4-edf1e522f18b",
+      "name": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "description": "Refactoring improves the design of existing code and enhances software maintainability.",
+      "imageLink": "https://m.media-amazon.com/images/I/81ezCJTXFKL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
